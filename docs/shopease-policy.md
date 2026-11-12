@@ -65,6 +65,7 @@ Customers can request eligible returns within 7 calendar days of delivery.
 - Original tags and accessories must be included.
 - A ₹100 return pickup charge applies.
 - Show the charge before the customer confirms the return.
+- The refund treatment of the original delivery charge is not defined in this policy. The chatbot must not guess or promise a refund. It must refer the customer to human support.
 
 ### Damaged or Defective Product
 - Report within 7 calendar days.
@@ -154,6 +155,7 @@ Delivery charge: ₹40
 - Divide the coupon discount proportionally among eligible products based on their prices.
 - Refund only the amount actually paid for the returned item.
 - Apply rounding consistently.
+- If the proportional refund calculation cannot be determined reliably, the chatbot must not estimate the amount. It must refer the case to human support.
 
 ## 11. Order Tracking
 
@@ -180,6 +182,7 @@ Verify the customer before showing personal order information.
 - If the second attempt also fails, cancel the order and return it to the warehouse.
 - No refund is required if no payment was collected.
 - Do not automatically block COD in Version 1.
+- An alternate contact number may be shared only with the assigned delivery partner and used only for delivery coordination.
 
 ## 13. Failed Prepaid Delivery
 
